@@ -17,5 +17,5 @@ B2 (Upper-Intermediate)
 * JSON
 * Git
 * SQL
-## Education
-Saratov State University
+## About me
+QA engineer
